@@ -1,0 +1,8 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+streamlit>=1.40
+numpy
+pandas
+altair
+matplotlib
+torch
+chronos-forecasting>=2.3
